@@ -8,3 +8,6 @@
         br = branch
         hist = log --pretty=format:'%C(yellow)[%ad]%C(reset) %C(green)[%h]%C(reset) %C(bold magenta)%d%C(reset) %n %C(blue)%s %C(reset) %C(bold red){%an}' --graph --date=relative
         uns = reset HEAD --
+[user]
+	email = inversionspaces@vivaldi.net
+	name = Воробьев Михаил
