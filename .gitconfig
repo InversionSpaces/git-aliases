@@ -1,4 +1,7 @@
 [alias]
+        s = switch
+        plr = pull -r
+        psf = push --force-with-lease
         co = checkout
         ci = commit
         st = status
